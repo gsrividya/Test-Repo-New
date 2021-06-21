@@ -1,0 +1,7 @@
+# This file outlines the people that should review code in specific areas. 
+# For more info see https://rndwiki.corp.hpecorp.net/confluence/display/sa20/GitHub+Code+Owners 
+
+# Global Owner of the repo
+*       @gsrividya
+# Any object changes to PRO environments need to be approved by the DSE Data Model Change Reviewers Team
+# This is to ensure alignment is kept between DSE and the rest of the Salesforce organization
